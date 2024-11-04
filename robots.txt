@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ucapuaga.github.io/CNA/sitemap_index.txt
+Sitemap: https://ucapuaga.github.io/JkB/sitemap_index.txt
+Sitemap: https://ucapuaga.github.io/iYy/sitemap_index.txt
+Sitemap: https://ucapuaga.github.io/wWt/sitemap_index.txt
